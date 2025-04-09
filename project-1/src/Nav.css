@@ -1,0 +1,23 @@
+*{
+padding: 0px;
+margin: 0px;
+}
+.Nav{
+    height: 70px;
+    width: 100vw;
+    display: flex;
+    justify-content:space-between;
+    border: 2px solid black;
+}
+.Nav ul{
+    display: flex; 
+    gap: 6rem;
+    margin: 0.90rem;
+    margin-right: 7rem;
+    text-decoration: none;
+    font-size: 2.30rem;
+    list-style-type: none;
+}
+#logo-img{
+    margin-left: 7rem;
+}

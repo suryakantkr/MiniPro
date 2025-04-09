@@ -1,0 +1,56 @@
+.Home{
+    height: 34.60rem;
+    width: 72rem;
+    margin-left:12rem;
+    margin-right: 12rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    font-size: 1.30rem;
+}
+.btn button{
+    height: 2rem;
+    width: 10rem;
+    margin: 2rem;
+    background-color: black;
+    color: white;
+    font-size: 0.80rem;
+
+}
+input{
+    height: 3rem;
+    width: 20rem;
+    margin-left: 3.70rem;
+    margin-top: 1rem;
+    font-size: 2rem;
+}
+#in-vsc{
+    height: 3rem;
+    width: 24rem;
+    margin-left: 2rem;
+    margin-top: 1px;
+}
+#in-box{
+    height:6rem;
+    width: 20rem;
+
+}
+.sub button{
+    height: 2rem;
+    width: 10rem;
+    margin-top: 1rem;
+    margin-left: 8rem;
+    background-color: black;
+    color: white;
+    font-size: 0.80rem;
+
+}
+
+.form{
+    display: flex;
+    justify-content: space-evenly;
+}
+#page{
+    height: 27rem;
+    width: 35rem;
+    
+}
